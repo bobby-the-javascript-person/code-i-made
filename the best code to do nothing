@@ -1,0 +1,29 @@
+let numofnothing = 15
+numofnothing = 25
+console.log(numofnothing + 'goof')
+function numbers() {console.log('i dont know what to write')}
+numbers('nothing')}
+
+let numofnothing2 = 15
+numofnothing2 = 25
+console.log(numofnothing2 + 'goof')
+function numbers2() {console.log('i dont know what to write')}
+numbers2('nothing')}
+
+
+
+let numofnothing3 = 15
+numofnothing3 = 25
+console.log(numofnothing3 + 'goof')
+function numbers3() {console.log('i dont know what to write')}
+numbers3('nothing')}
+
+
+
+
+
+
+
+
+
+

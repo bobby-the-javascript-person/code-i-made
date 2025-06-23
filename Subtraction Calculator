@@ -1,0 +1,10 @@
+//THE JAVA SCRIPT Subtraction CALCULATOR
+let firstnumber = 10 //add in first number here
+let secondnumber = 3 //add in second number here
+let answer; // Declare answer in the outer scope
+if (secondnumber && firstnumber) {
+  answer = (firstnumber - secondnumber)
+} else {
+  console.log('invalad number')
+}
+console.log(answer)

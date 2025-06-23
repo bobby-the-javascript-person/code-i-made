@@ -1,0 +1,10 @@
+//THE JAVA SCRIPT MULTIPLICATION CALCULATOR
+let firstnumber = 5 //add in first number here
+let secondnumber = 5 //add in second number here
+let answer; // Declare answer in the outer scope
+if (secondnumber && firstnumber) {
+  answer = (firstnumber * secondnumber)
+} else {
+  console.log('invalad number')
+}
+console.log(answer)
